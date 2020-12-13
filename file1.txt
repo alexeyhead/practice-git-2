@@ -1,1 +1,2 @@
 1 Line fot Commit 1
+2 Line fot Commit 2
