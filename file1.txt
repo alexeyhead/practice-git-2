@@ -1,3 +1,4 @@
 1 Line fot Commit 1
 2 Line fot Commit 2
 3 Line fot Commit 3
+4 Line for Commit 4
